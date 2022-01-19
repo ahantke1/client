@@ -1,10 +1,10 @@
+import { Card } from 'grommet';
 import '..//static/styles/App.css';
-
+import { FlashCard } from './Card';
+ 
 function App() {
   return (
-    <div className="App">
-      Hello
-    </div>
+    <FlashCard />
   );
 }
 
