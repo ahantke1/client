@@ -1,5 +1,4 @@
-import { Card } from 'grommet';
-import '..//static/styles/App.css';
+import '..//static/styles/App.scss';
 import { FlashCard } from './Card';
  
 function App() {
